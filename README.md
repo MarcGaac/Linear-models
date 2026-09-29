@@ -1,0 +1,1 @@
+The regression analysis demonstrates a strong positive relationship between the two variables.
